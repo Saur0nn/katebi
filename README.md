@@ -5,3 +5,5 @@
 
 
 ლინკის დასამალად გამოიყენეთ [bitly](https://bitly.com)
+
+> made by [_saur0n](https://sauronn.netlify.app)
